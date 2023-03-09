@@ -4,7 +4,7 @@ public class NumberDivider {
     void divide(int toBeDivided) {
         int number=toBeDivided/5;
 
-        System.out.println("the division is equal to:"+number);
+        System.out.println(+number);
     }
 
     public static void main(String[] args) {
